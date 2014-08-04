@@ -4,7 +4,7 @@ public class HelloWorld {
 	
 	public HelloWorld() {
 
-		System.out.println("Hello World Jenkins !");
+		System.out.println("Hello World Jenkins & QA automation!");
 
 	}
 
